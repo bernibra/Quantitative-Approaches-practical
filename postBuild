@@ -1,4 +1,2 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
-jupyter exercise2 install @jupyter-widgets/jupyterlab-manager@0.38
-jupyter rubberband install @jupyter-widgets/jupyterlab-manager@0.38
